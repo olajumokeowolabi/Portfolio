@@ -44,6 +44,10 @@ This project simulates the foundational GRC work performed when establishing a c
 
 This project mirrors real world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
 
+## 📂 Document Guide
+
+### 1. [`docs/compliance-program-overview.md`](docs/compliance-program-overview.md)
+A concise one-page overview of the compliance programme, including the chosen framework rationale, programme scope, stated objectives, and current maturity assessment. This document mirrors what a GRC analyst would prepare for an executive sponsor or steering committee at programme initiation.
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
