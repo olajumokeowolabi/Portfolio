@@ -33,7 +33,7 @@ I have contributed to compliance assessments, control reviews, risk mitigation i
 
 ## Project Summary
 
-This project simulates the foundational GRC work performed when establishing a compliance programme for a new or growing organisation. Using a fictitious UK-based residential care provider **CareHaven Residential Services Ltd** as the scoped environment, this portfolio demonstrates:
+This project simulates the foundational GRC work performed when establishing a compliance programme for a new or growing organisation. Using a fictitious UK based residential care provider **CareHaven Residential Services Ltd** as the scoped environment, this portfolio demonstrates:
 
 - Defining and documenting an information security scope
 - Identifying and classifying information assets
@@ -42,7 +42,7 @@ This project simulates the foundational GRC work performed when establishing a c
 - Identifying compliance gaps and producing actionable remediation plans
 - Communicating compliance posture in a format suitable for audit readiness reviews
 
-This project mirrors real-world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
+This project mirrors real world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
 
 
 
