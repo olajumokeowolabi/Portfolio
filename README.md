@@ -78,7 +78,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
        <td>🌐</td>
-      <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/modupeolajumokeowolabi/)">My LinkedIn profile</a></td>
+      <td><a href="https://www.linkedin.com/in/modupeolajumokeowolabi/">My LinkedIn profile</a></td>
     </tr>
     <tr>
 
