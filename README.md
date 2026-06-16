@@ -21,6 +21,7 @@ Risk Assessment & Risk Management
 Internal Controls & Audit Support
 Third-Party Risk Management
 Security Awareness & Compliance Programs
+
 I have contributed to compliance assessments, control reviews, risk mitigation initiatives, policy development, audit preparation, and governance programs designed to strengthen organizational security posture and regulatory compliance.
 
 <!--Section 2: List 3-4 key projects-->
