@@ -31,9 +31,19 @@ I have contributed to compliance assessments, control reviews, risk mitigation i
 
 **Simulated ISO 27001:2022 compliance programme a GRC portfolio project demonstrating ISMS scoping, control mapping, gap analysis, and audit readiness documentation.**
 
-![image](1 anietie etuk data analytics car project.jpeg)
+## Project Summary
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+This project simulates the foundational GRC work performed when establishing a compliance programme for a new or growing organisation. Using a fictitious UK-based residential care provider **CareHaven Residential Services Ltd** as the scoped environment, this portfolio demonstrates:
+
+- Defining and documenting an information security scope
+- Identifying and classifying information assets
+- Mapping ISO 27001:2022 Annex A controls to business processes
+- Assessing current control maturity using a structured control matrix
+- Identifying compliance gaps and producing actionable remediation plans
+- Communicating compliance posture in a format suitable for audit readiness reviews
+
+This project mirrors real-world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
+
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
