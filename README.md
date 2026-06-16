@@ -29,7 +29,7 @@ I have contributed to compliance assessments, control reviews, risk mitigation i
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Simulated ISO 27001:2022 compliance programme — GRC portfolio project demonstrating ISMS scoping, control mapping, gap analysis, and audit readiness documentation.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
