@@ -45,7 +45,7 @@ This project simulates the foundational GRC work performed when establishing a c
 This project mirrors real world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
 
 ### 1. [`compliance program overview.md`](compliance program overview.md)
-compliance program overview.md
+[compliance program overview.md](https://github.com/olajumokeowolabi/Portfolio/blob/dc238faa34a36ec9a43a8c4c8741f9dd70b2e350/compliance%20program%20overview.md)
 
 [Read More](compliance program overview.md)
 
