@@ -47,7 +47,7 @@ This project mirrors real world GRC analyst responsibilities including ISMS impl
 ### 1. [`docs/compliance-program-overview.md`](docs/compliance-program-overview.md)
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](compliance program overview.md)
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
