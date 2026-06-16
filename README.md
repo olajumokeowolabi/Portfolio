@@ -77,6 +77,8 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
-      <td>🌐</td>
-      <td><a href="[www.linkedin.com/in/modupeolajumokeowolabi](https://www.linkedin.com/in/modupeolajumokeowolabi/)">My LinkedIn Profile</a></td>
+       <td>🌐</td>
+      <td><a href="[https://linkedin.com/in/etukanietie](https://www.linkedin.com/in/modupeolajumokeowolabi/)">My LinkedIn profile</a></td>
+    </tr>
+    <tr>
 
