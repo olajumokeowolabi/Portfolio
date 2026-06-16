@@ -10,13 +10,17 @@ I am a Governance, Risk, and Compliance (GRC) cybersecurity professional with ex
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+My background includes working with cybersecurity frameworks and standards such as:
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+ISO/IEC 27001
+NIST Cybersecurity Framework (CSF)
+CIS Controls
+SOC 1 & SOC 2
+GDPR and Data Protection
+Risk Assessment & Risk Management
+Internal Controls & Audit Support
+Third-Party Risk Management
+Security Awareness & Compliance Programs
 
 
 <!--Section 2: List 3-4 key projects-->
