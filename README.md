@@ -2,7 +2,9 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+👋 Hi, I'm Modupe Olajumoke Owolabi
+
+I am a Governance, Risk, and Compliance (GRC) cybersecurity professional with experience supporting information security, risk management, compliance, audit readiness, and data protection initiatives across multiple industries.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
