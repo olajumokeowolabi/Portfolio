@@ -84,7 +84,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a Modupe_Owolabi_GRC_CV.docx">Download my CV</a></td>
+      <td><a [Modupe_Owolabi_GRC_CV.docx](https://github.com/olajumokeowolabi/Portfolio/blob/b58394a94edce0eac66b26b331f945c233c2151d/Modupe_Owolabi_GRC_CV.docx)">Download my CV</a></td>
     </tr>
     <tr>
        <td>🌐</td>
