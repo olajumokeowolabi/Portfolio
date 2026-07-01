@@ -29,22 +29,35 @@ I have contributed to compliance assessments, control reviews, risk mitigation i
 
 *A glimpse of some of the projects I've been working on.*
 
-**Simulated ISO 27001:2022 compliance programme a GRC portfolio project demonstrating ISMS scoping, control mapping, gap analysis, and audit readiness documentation.**
+**GDPR + NIST CSF + ISO 27001 Control Mapping Portfolio Project.**
 
-## Project Summary
+## Project Overview
 
-This project simulates the foundational GRC work performed when establishing a compliance programme for a new or growing organisation. Using a fictitious UK based residential care provider **CareHaven Residential Services Ltd** as the scoped environment, this portfolio demonstrates:
+This repository contains a practical Governance, Risk and Compliance (GRC) project designed to demonstrate how organisations can rationalise and align three widely adopted frameworks:
+UK GDPR / EU GDPR
+ISO/IEC 27001:2022
+NIST Cybersecurity Framework (CSF) 2.0
+The project analyses areas of overlap, identifies framework-specific obligations, and develops a unified control model that organisations can use to reduce duplicate compliance activities and improve governance efficiency.
 
-- Defining and documenting an information security scope
-- Identifying and classifying information assets
-- Mapping ISO 27001:2022 Annex A controls to business processes
-- Assessing current control maturity using a structured control matrix
-- Identifying compliance gaps and producing actionable remediation plans
-- Communicating compliance posture in a format suitable for audit readiness reviews
+This portfolio project mirrors the type of framework crosswalk and control rationalisation work commonly performed by GRC consultants, information security teams, and compliance professionals:
 
-This project mirrors real world GRC analyst responsibilities including ISMS implementation support, control assessments, gap analysis, risk identification, and documentation in line with recognised security frameworks.
+## Business Problem
+Many organisations implement GDPR, ISO 27001, and NIST CSF independently. This often leads to:
+Duplicate policies and procedures
+Multiple evidence repositories
+Repeated audit activities
+Increased compliance costs
+Fragmented governance processes
 
-### 1. Compliance program overview
+## Project Objectives
+The objectives of this project are to:
+Identify overlapping requirements across GDPR, ISO 27001, and NIST CSF.
+Develop a crosswalk matrix that maps related controls.
+Identify framework-specific requirements that require separate treatment.
+Create a unified control framework that reduces duplication.
+Demonstrate how organisations can reuse evidence across multiple compliance activities.
+
+### 1. GDPR + NIST CSF + ISO 27001 Control Mapping Portfolio Project
 
 [Read More](https://github.com/olajumokeowolabi/Portfolio/blob/b2abb25062b7fd961ace0ca1f48a7c4e4b7e6672/compliance%20program%20overview.md)
 
