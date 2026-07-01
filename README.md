@@ -29,37 +29,66 @@ I have contributed to compliance assessments, control reviews, risk mitigation i
 
 *A glimpse of some of the projects I've been working on.*
 
-**GDPR + NIST CSF + ISO 27001 Control Mapping Portfolio Project.**
+## 1. GDPR + NIST CSF + ISO 27001 Control Mapping Portfolio Project.
 
-## Project Overview
+ **Project Overview** :
+A cross-framework governance project that maps UK GDPR, ISO/IEC 27001:2022, and NIST CSF 2.0 into a single Unified Control Framework, demonstrating how organisations can reduce duplicated compliance activities, streamline audit preparation, and improve governance efficiency.
 
-This repository contains a practical Governance, Risk and Compliance (GRC) project designed to demonstrate how organisations can rationalise and align three widely adopted frameworks:
-UK GDPR / EU GDPR
-ISO/IEC 27001:2022
-NIST Cybersecurity Framework (CSF) 2.0
-The project analyses areas of overlap, identifies framework-specific obligations, and develops a unified control model that organisations can use to reduce duplicate compliance activities and improve governance efficiency.
+**Business Problem**
+: Organisations operating under multiple compliance frameworks often maintain separate controls, policies, audits, and evidence repositories for each framework, resulting in duplicated effort, increased costs, and inconsistent governance.
+ 
+**Project Outcome**
 
-This portfolio project mirrors the type of framework crosswalk and control rationalisation work commonly performed by GRC consultants, information security teams, and compliance professionals:
+Identified 19 control domains that satisfy all three frameworks simultaneously.
 
-## Business Problem
-Many organisations implement GDPR, ISO 27001, and NIST CSF independently. This often leads to:
-Duplicate policies and procedures
-Multiple evidence repositories
-Repeated audit activities
-Increased compliance costs
-Fragmented governance processes
+Developed a 30-domain Unified Control Framework.
 
-## Project Objectives
-The objectives of this project are to:
-Identify overlapping requirements across GDPR, ISO 27001, and NIST CSF.
-Develop a crosswalk matrix that maps related controls.
-Identify framework-specific requirements that require separate treatment.
-Create a unified control framework that reduces duplication.
-Demonstrate how organisations can reuse evidence across multiple compliance activities.
+Produced a crosswalk matrix linking GDPR Articles, ISO 27001 controls, and NIST CSF categories.
 
-### 1. GDPR + NIST CSF + ISO 27001 Control Mapping Portfolio Project
+Demonstrated how a single evidence artefact can support multiple compliance requirements through evidence mapping.
+
+Identified framework-specific obligations requiring dedicated implementation.
+
+**Business Value**
+
+Reduces control duplication across multiple frameworks,
+Simplifies multi-framework audit preparation,
+Improves evidence management and traceability,
+Enables a risk-based, unified compliance programme,
+Supports audit readiness and governance maturity.
+
+**Key Deliverables**
+
+| Artefact | Purpose |
+|---|---|
+| Control Crosswalk Matrix | Maps GDPR articles → ISO 27001:2022 Annex A → NIST CSF 2.0 at control-objective level |
+| Gap Analysis | Identifies the 6 framework-specific requirements with no cross-framework equivalent |
+| Unified Control Framework | 30-domain control catalogue — one objective, three framework references per control |
+| Evidence Mapping Example | Demonstrates how a single artefact satisfies GDPR, ISO, and NIST audits simultaneously |
+| Key Findings Dashboard | One-page visual summary including framework overlap diagram |
+| Recommendations | Challenge → Recommendation → Expected Outcome, executive-ready |
+| Appendix | Practical guide: how organisations apply this mapping to a real compliance programme |
+
+**Skills demonstrated**
+`GRC` · `Control Mapping` · `Framework Alignment` · `Gap Analysis` · `GDPR` · `ISO 27001:2022` · `NIST CSF 2.0` · `Unified Control Framework Design` · `Evidence Mapping` · `Audit Readiness`
+
+**Who This Project Is For**
+: GRC Analysts,
+Information Security & Compliance Analysts,
+Internal Auditors,
+Information Security Managers,
+Third-Party Risk Professionals,
+Organisations managing multiple regulatory and security frameworks.
+
+This project focuses on governance-level control design, framework alignment, and compliance optimization rather than technical implementation.
 
 [Read More](https://github.com/olajumokeowolabi/Portfolio/blob/b2abb25062b7fd961ace0ca1f48a7c4e4b7e6672/compliance%20program%20overview.md)
+
+
+## 2. 
+
+
+
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
