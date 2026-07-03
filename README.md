@@ -85,12 +85,58 @@ This project focuses on governance-level control design, framework alignment, an
 [Read More](https://github.com/olajumokeowolabi/Portfolio/blob/b2abb25062b7fd961ace0ca1f48a7c4e4b7e6672/compliance%20program%20overview.md)
 
 
-## 2. 
+## 2. Enterprise Cybersecurity Risk Register Programme
+
+An end-to-end cybersecurity risk management portfolio project for a fictional UK healthcare organisation, demonstrating how enterprise cyber risks are identified, assessed, treated, monitored and reported within a Governance, Risk & Compliance (GRC) programme.
+
+This project was created for portfolio purposes only and contains no real organisational or personal data.
+
+**Business Problem**
+Organisations face increasing cyber threats, regulatory obligations and third-party risks but often lack a structured approach to prioritising and managing cybersecurity risk.
+
+**Skills Demonstrated**
+•	Cyber Risk Assessment
+•	Enterprise Risk Management
+•	Risk Treatment Planning
+•	ISO 27001 Alignment
+•	Risk Governance & Reporting
+•	Third-Party Risk Management
+•	Key Risk Indicators (KRIs)
+•	Executive Dashboard Reporting
+
+**Frameworks Used**
+•	ISO/IEC 27001:2022
+•	ISO/IEC 27005
+•	NIST Cybersecurity Framework (CSF)
+
+**Deliverables**
+•	Enterprise Risk Register
+•	Risk Treatment Plan
+•	Risk Assessment Methodology
+•	Enterprise Risk Management Policy
+•	Control Library
+•	Residual Risk Register
+•	Risk Review Schedule
+•	Executive Risk Report
+•	Risk Governance Structure
+•	Project Gantt Chart
+
+ **How the files connect**
+
+The main workbook is the single source of truth for risk data. The standalone documents reference and are consistent with it:
+
+- The **Methodology** and **Policy** documents define the rules the workbook's Risk Register applies (scoring, ownership, acceptance, escalation)
+- The **SOP** describes the step-by-step process for maintaining the workbook
+- The **Governance Structure** document explains who the "Risk Owner" and "Risk Committee" fields in the workbook refer to
+- The **Executive Risk Report** is a narrative version of the workbook's Executive Dashboard and KRI Dashboard for a given quarter
+- **Control Library**, **Residual Risk Register** and **Risk Review Schedule** are derived views of data that also lives in the main workbook, broken out into standalone files as some recruiters/hiring panels expect to see these as separate artefacts
 
 
 
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+
+
+
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
