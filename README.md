@@ -134,6 +134,7 @@ Provides a structured, auditable approach to enterprise cyber risk management by
  **Preview**
 ![image](2 anietie etuk data analytics sales project.jpg)
 
+
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Note**: Healthcare Services Ltd is a fictional organisation created solely for portfolio purposes. No real organisational, employee or patient data has been used.
