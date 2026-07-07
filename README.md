@@ -87,62 +87,64 @@ This project focuses on governance-level control design, framework alignment, an
 
 ## 2. Enterprise Cybersecurity Risk Register Programme
 
-An end-to-end cybersecurity risk management portfolio project for a fictional UK healthcare organisation, demonstrating how enterprise cyber risks are identified, assessed, treated, monitored and reported within a Governance, Risk & Compliance (GRC) programme.
+A portfolio project demonstrating the design and implementation of an enterprise cybersecurity risk management programme for a fictional UK healthcare organisation. The project shows how cyber risks can be identified, assessed, treated, monitored and reported using industry-recognised governance and risk management practices.
 
-This project was created for portfolio purposes only and contains no real organisational or personal data.
+**Business Value**
 
-**Business Problem**
-Organisations face increasing cyber threats, regulatory obligations and third-party risks but often lack a structured approach to prioritising and managing cybersecurity risk.
+Provides a structured, auditable approach to enterprise cyber risk management by supporting risk identification, prioritisation, treatment planning, executive reporting and ongoing risk monitoring.
 
 **Skills Demonstrated**
-•	Cyber Risk Assessment
-•	Enterprise Risk Management
+
+•	Enterprise Cyber Risk Management
+•	Enterprise Risk Assessment
 •	Risk Treatment Planning
-•	ISO 27001 Alignment
-•	Risk Governance & Reporting
+•	Risk Governance
 •	Third-Party Risk Management
 •	Key Risk Indicators (KRIs)
-•	Executive Dashboard Reporting
+•	Executive Reporting
+•	ISO/IEC 27001 Control Mapping
+•	Compliance Mapping
+•	Stakeholder Communication
 
-**Frameworks Used**
-•	ISO/IEC 27001:2022
-•	ISO/IEC 27005
-•	NIST Cybersecurity Framework (CSF)
+**Frameworks Referenced**
 
-**Deliverables**
-•	Enterprise Risk Register
+•	ISO/IEC 27001:2022 (Annex A)
+•	UK GDPR
+•	Data Protection Act 2018
+•	NHS Data Security & Protection Toolkit (DSPT)
+•	CQC Regulation 17
+
+**Project Deliverables**
+
+•	Enterprise Cybersecurity Risk Register
+•	Executive Risk Dashboard
+•	Risk Heat Map
 •	Risk Treatment Plan
+•	KRI Dashboard
 •	Risk Assessment Methodology
 •	Enterprise Risk Management Policy
+•	Risk Assessment Procedure (SOP)
+•	Risk Governance Structure
+•	Executive Risk Report
 •	Control Library
 •	Residual Risk Register
 •	Risk Review Schedule
-•	Executive Risk Report
-•	Risk Governance Structure
 •	Project Gantt Chart
 
- **How the files connect**
-
-The main workbook is the single source of truth for risk data. The standalone documents reference and are consistent with it:
-
-- The **Methodology** and **Policy** documents define the rules the workbook's Risk Register applies (scoring, ownership, acceptance, escalation)
-- The **SOP** describes the step-by-step process for maintaining the workbook
-- The **Governance Structure** document explains who the "Risk Owner" and "Risk Committee" fields in the workbook refer to
-- The **Executive Risk Report** is a narrative version of the workbook's Executive Dashboard and KRI Dashboard for a given quarter
-- **Control Library**, **Residual Risk Register** and **Risk Review Schedule** are derived views of data that also lives in the main workbook, broken out into standalone files as some recruiters/hiring panels expect to see these as separate artefacts
-
-
-
-
-
-
-
-
+ **Preview**
 ![image](2 anietie etuk data analytics sales project.jpg)
-
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Note**: Healthcare Services Ltd is a fictional organisation created solely for portfolio purposes. No real organisational, employee or patient data has been used.
+
+This project demonstrates the practical governance documentation, risk management processes and executive reporting expected of Cyber Risk Analysts, GRC Analysts and Information Security & Compliance professionals.
+
+
+
+
+
+
+
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
