@@ -142,7 +142,53 @@ Provides a structured, auditable approach to enterprise cyber risk management by
 This project demonstrates the practical governance documentation, risk management processes and executive reporting expected of Cyber Risk Analysts, GRC Analysts and Information Security & Compliance professionals.
 
 
+## 3. Third-Party Vendor Risk Assessment
+### PayStream Solutions, Inc. evaluated by Meridian Retail Group | ISO/IEC 27001:2022 · NIST CSF 2.0 · PCI DSS
 
+A complete, end-to-end Third-Party Risk Management (TPRM) engagement from vendor profiling and due diligence through risk scoring, framework mapping, and an executive level onboarding recommendation.
+
+**The Scenario**
+
+Meridian Retail Group, a mid-size multi-channel retailer, is retiring an aging on premises payment gateway and onboarding **PayStream Solutions**, a cloud-hosted payment authorization and card tokenization platform, to handle checkout across its e-commerce and POS channels. Because PayStream touches Meridian's Cardholder Data Environment (CDE), it's classified **Tier 1 / Critical** — triggering a full security due diligence review before go-live.
+
+This project is that review: profiling the vendor, testing its security posture against evidence, scoring the risks, mapping controls to ISO 27001 and NIST CSF 2.0, and delivering a documented recommendation to business stakeholders.
+
+## Outcome
+
+| | |
+|---|---|
+| **Overall Risk Rating** | Medium-High |
+| **Risks Identified** | 18, including 1 Critical and 3 High |
+| **Control Gaps Found** | 13, across 15 tracked treatment actions |
+| **ISO 27001 Coverage** | 19 controls mapped |
+| **NIST CSF 2.0 Coverage** | 14 categories mapped |
+| **Recommendation** | Conditional Approval to Onboard, pending two priority remediations |
+
+**Top risks:** possible cross-tenant exposure from a tokenization service compromise, an undisclosed penetration test report, and infrastructure concentration from reliance on a single cloud provider.
+
+**What's Inside**
+
+```
+01_Project_Scenario/      Business Scenario · Assessment Scope
+02_Vendor_Profile/        Vendor Profile · Vendor Inventory
+03_Due_Diligence/         Security Questionnaire (52 items) · Evidence Register
+04_Risk_Assessment/       Risk Scoring Methodology · Vendor Risk Register · Risk Heat Map
+05_Framework_Mapping/     ISO 27001:2022 Control Mapping · NIST CSF 2.0 Control Mapping
+06_Gap_Analysis/          Control Gap Analysis
+07_Risk_Treatment/        Risk Treatment Plan
+08_Executive_Report/      Executive Summary & Recommendation
+Images/                   Dashboard and process workflow visuals
+```
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+**Skills Demonstrated**
+
+Third-party risk management · vendor criticality assessment · security due diligence · risk scoring & prioritization · gap analysis · risk treatment planning · ISO 27001 / NIST CSF control mapping · executive risk communication
+
+**Disclaimer**
+
+This project uses a fictional business scenario (Meridian Retail Group, PayStream Solutions) and was built solely to demonstrate practical GRC and TPRM skills.
 
 
 
